@@ -1,1 +1,1 @@
-module github.com/gorilla/handlers
+module github.com/benitogf/handlers
